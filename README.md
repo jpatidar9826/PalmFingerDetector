@@ -4,12 +4,12 @@
 
 ## 📱 Features
 
-* **Guided Biometric Capture:**
-* **Real-time Hand Detection:**
-* **Smart Quality Checks:**
-* **Optimized Storage:**
-* **Verification Mode:**
-* **Simple UI:**
+* **Guided Biometric Capture**
+* **Real-time Hand Detection**
+* **Smart Quality Checks**
+* **Optimized Storage**
+* **Verification Mode**
+* **Simple UI**
 
 ---
 
